@@ -43,4 +43,9 @@ table 1 BS
 
     end;
 
+    trigger OnRename()
+    begin
+
+    end;
+
 }
